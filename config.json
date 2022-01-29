@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0e229179ADa7d8F9b2999Deb902Aa86116cC7aE3",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0e229179ADa7d8F9b2999Deb902Aa86116cC7aE3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The MatrixPunks",
+  "SYMBOL": "MPUNKS",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-matrixpunks",
+  "SHOW_BACKGROUND": true
+}
